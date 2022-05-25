@@ -11,6 +11,7 @@ UK based programmer and student
 • Node.js  
 • React  
 • HTML + CSS  
+• Lua
 <br>
 <br>
 [![luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukxee2&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
