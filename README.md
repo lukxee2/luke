@@ -3,7 +3,7 @@ UK based programmer and student
 
 ☁️ [luke.lgbt](https://luke.lgbt/)  
 💬 [Discord Profile](https://discord.com/users/261082913334886401)  
-📧 [Email](mailto:me@luke.lgbt)  
+📧 [Email](mailto:me@luke.lgbt) `me@luke.lgbt`
 
 ### Experience
 • Python (Flask)  
