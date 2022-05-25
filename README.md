@@ -1,8 +1,6 @@
 ## Hey there, I'm luke
 UK based programmer and student 
 
-![alt text](https://cdn.discordapp.com/attachments/659031245996556325/978993436218785802/Untitled-500.png "Profile Picture") ㅤ**lukxee2**
-
 ☁️ [luke.lgbt](https://luke.lgbt/)  
 💬 [Discord Profile](https://discord.com/users/261082913334886401)  
 📧 [Email](mailto:me@luke.lgbt)  
