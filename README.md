@@ -11,4 +11,4 @@ UK based programmer and student
 • Node.js  
 • React  
 • HTML + CSS  
-• Lua
+• Lua (Roblox)
