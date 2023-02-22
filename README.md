@@ -3,9 +3,8 @@ Hey there, my name is Luke   ![](https://user-images.githubusercontent.com/18350
 
 I'm a 17-year-old student and developer. I started my programming journey in Lua by creating ROBLOX games and soon expanded into the world of Python.
 
-* ☁️  I'm based in Bedford, UK
-* 🖥️  See my [portfolio](http://lukerogers.uk)
-* ✉️  You can contact me at [contact@lukerogers.uk](mailto:contact@lukerogers.uk)
+* ☁️  See my [portfolio](http://lukerogers.uk)
+* ✉️  Contact me at [contact@lukerogers.uk](mailto:contact@lukerogers.uk)
 * 💬  I'm learning all things Javascript
 
 ### Skills
@@ -28,7 +27,7 @@ I'm a 17-year-old student and developer. I started my programming journey in Lua
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
