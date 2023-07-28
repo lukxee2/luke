@@ -5,7 +5,7 @@ I'm a 18-year-old student and developer. I started my programming journey in Lua
 
 * ☁️  See my [portfolio](http://lukerogers.uk)
 * ✉️  Contact me at [contact@lukerogers.uk](mailto:contact@lukerogers.uk)
-* 💬  I'm learning all things Javascript
+* 💬  I'm learning all things Javascript & Reactjs
 
 ### Skills
 
